@@ -1,6 +1,6 @@
 # Problema da mochila dos itens indivisíveis
 
-# Fotos
+## Fotos
 ![photo_5138919947689372645_y](https://github.com/projeto-de-algoritmos/PD_Knapsack_indivisible/assets/87709987/ed22df78-13cd-4339-ac5e-bdea4fd092cb)
 
 ![photo_5138919947689372644_y](https://github.com/projeto-de-algoritmos/PD_Knapsack_indivisible/assets/87709987/67835a8c-b95c-4a8c-a005-7b5804e3f018)
